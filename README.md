@@ -17,5 +17,3 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=cordlesstoast&icon=1&color=4)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
